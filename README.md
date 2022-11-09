@@ -2,7 +2,7 @@
 
 
 
-Type in the first assembly program from the [Raspberry Pi Assembler](https://comp264.org/readings/RPiA.pdf) book in section 1.3, page 10 of the PDF. Compile the program on x86 Ubuntu with:
+Type in the first assembly program from the [Raspberry Pi Assembler](https://comp264.org/readings/RPiA.pdf) book in section 1.2, page 10 of the PDF. Compile the program on x86 Ubuntu with:
 
     arm-none-linux-gnueabi -static -o first first.s
 
